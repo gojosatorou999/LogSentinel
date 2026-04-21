@@ -2,7 +2,7 @@
 
 **LogSentinel** is a lightweight, real-time log monitoring utility written in Python. It allows users to track log files for specific keywords, providing instant visual feedback when critical events (like "ERROR", "CRITICAL", or specific "USER_ID") are detected.
 
-#### Features
+## Features
 
 - **Real-time Monitoring**: Mimics the behavior of `tail -f` to watch file updates instantly.
 - **Keyword Spotting**: Monitors multiple keywords simultaneously.
